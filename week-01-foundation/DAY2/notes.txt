@@ -1,0 +1,10 @@
+Day 2 (July 2) - Wednesday
+Python Fundamentals:
+- Control structures (if/else, loops)
+- Functions and scope
+- List operations
+
+DSA Problems (Easy):
+1. Roman to Integer (LeetCode 13)
+2. Valid Parentheses (LeetCode 20)
+3. Merge Two Sorted Lists (LeetCode 21)

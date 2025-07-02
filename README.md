@@ -27,16 +27,16 @@ This repository documents my intensive 30-day journey into AI/ML, covering every
 
 ## 📊 Progress Tracker
 
-### Overall Progress: 0% Complete
+### Overall Progress: 3.4% Complete
 
 | Week | Focus Area | Status | Completion |
 |------|------------|--------|------------|
-| **Week 1** | Foundation (Python, Git, Linux) | ⏳ In Progress | 0% |
+| **Week 1** | Foundation (Python, Git, Linux) | ⏳ In Progress | 14.29% |
 | **Week 2** | AI/ML Fundamentals | ⏳ Pending | 0% |
 | **Week 3** | Deep Learning Introduction | ⏳ Pending | 0% |
 | **Week 4** | NLP & LLMs | ⏳ Pending | 0% |
 
-### Daily Streak: 1 days 🔥
+### Daily Streak: 2  days 🔥
 
 ## 🗓️ Detailed Weekly Breakdown
 
@@ -304,16 +304,16 @@ By the end of this intensive 30-day bootcamp, I will master:
 - **Lines of Code Written:** 10,000+ lines
 
 ### 📈 Current Progress
-- **Total Commits:** 1 / 200+
+- **Total Commits:** 4 / 200+
 - **Study Hours Completed:** 6 / 180+
 - **DSA Problems Solved:** 3 / 150+
 - **Projects Completed:** 0 / 5
-- **Lines of Code:** 0 / 10,000+
+- **Lines of Code:** 365 / 10,000+
 
 ### 🎯 Weekly Milestones
 | Week | Focus | Hours | DSA Problems | Project | Status |
 |------|-------|-------|--------------|---------|--------|
-| Week 1 | Foundation | 42h | 18 Easy | Contact System | ⏳ 0% |
+| Week 1 | Foundation | 42h | 18 Easy | Contact System | ⏳ 0.56% |
 | Week 2 | ML Fundamentals | 42h | 18 Easy-Med | House Prices | ⏳ 0% |
 | Week 3 | Deep Learning | 42h | 21 Medium | Image Classifier | ⏳ 0% |
 | Week 4 | NLP & LLMs | 42h | 21 Med-Hard | AI Chatbot | ⏳ 0% |
