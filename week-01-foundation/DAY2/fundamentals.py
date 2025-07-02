@@ -19,26 +19,11 @@ is_prime(6)
 
 print("----" * 13)
 
-# Count Vowels and Consonant in a string
-def count_vc(string):
-    vowels = "aeiou"
-    
-
 print("-----" * 10)
 
 
 #pyramin pattern
-def full_pyramid(n):
-    for i in range(1, n + 1):
-	    #printing leading spaces
-        	for j in range(n - 1):
-	        print(" ", end="")
-	    #printing asterisks for the current row
-	    for k in range(1, 2*i):
-	        print("*", end="")
-	    print()
-full_pyramid(4)
-##problem on the program guide me later and also i didn't understand fibonacci  sequence program also understand me that 
+
 """
 
 """
@@ -86,13 +71,8 @@ print(compute_stats(4))
 
 print("---" * 16)
 
-# 9. Remove duplicate from a list
-
-def removeDuplicates(l):
-    return list(set(l))
-print(removeDuplicates([1,2,3, 6,6,6,6, 7]))    
 """
-
+"""
 ##### Rotate a list to the right by k steps
 #input: [1,2,3,4,5] output: [4,5,1,2,3]
 # first i will reverse then reverse k position first then others element
@@ -106,7 +86,7 @@ def reverse_list(start, end, arr):
 def rotate_list(arr, k):    
     n = len(arr)
     k = k % n
-    reverse_list(0, n + - 1, arr)
+    reverse_list(0, n - 1, arr)
     reverse_list(0, k - 1 , arr)
     reverse_list(k, n - 1, arr)
     return arr
@@ -134,5 +114,62 @@ def count_EvenOdd(arr):
     print("Odds: ", total_odds)
     return "I return nothing form this function"    
 print(count_EvenOdd([1,2,3,4,5,6,7])) 
+"""
+# Count Vowels and Consonant in a string
+def count_vc(string):
+    vowels = "aeiou"
+    consonants = "qwrtypsdfghjklzxcvbnm"
+    count_vowels = 0
+    count_consonants = 0
+    
+    for s in string.lower():
+        if s in vowels:
+            count_vowels += 1
+        if s in consonants:
+            count_consonants += 1
+    return count_vowels, count_consonants
+print(count_vc("AI Architect"))
 
+#pyramid pattern 
+def pyramid_main(rows):	
+    for i in range(1, rows + 1):
+        print(" " * (rows - i) + "*" * (2 * i - 1))
+
+pyramid_main(7)
+
+# remove duplicates
+def removeDuplicates(arr):
+    new_arr = []
+    for i in arr:
+        if i not in new_arr:
+            new_arr.append(i)
+    return new_arr
+
+# I know its use extra space
+
+print(removeDuplicates([1,2,3,4,5,6,7,8,7]))
+            
+#### sum of odd and evens
+'''
+evens = sum(1 for x in arr if x % 2 == 0)
+is equivalent to 
+evens = 0
+for x in arr:
+    if x % 2 == 0:
+        evens += 1
+'''
+def count_even_odd(arr):
+    evens = sum(1 for x in arr if x % 2 == 0)
+    odds = len(arr) - evens
+    return evens, odds
+print(count_even_odd([1,2,3,4,5,6,7]))
+
+
+# fibonacci sequence 
+def fibonacci(n):
+    a, b = 0, 1
+    for _ in range(n):
+        print(a, end=" ")
+        a, b = b, a + b
+fibonacci(5)
 
