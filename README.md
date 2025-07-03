@@ -27,16 +27,16 @@ This repository documents my intensive 30-day journey into AI/ML, covering every
 
 ## 📊 Progress Tracker
 
-### Overall Progress:6.5% Complete
+### Overall Progress:9.4(0.6 pending)% Complete
 
 | Week | Focus Area | Status | Completion |
 |------|------------|--------|------------|
-| **Week 1** | Foundation (Python, Git, Linux) |IN PROGRESS |28% |
+| **Week 1** | Foundation (Python, Git, Linux) |IN PROGRESS |42% |
 | **Week 2** | AI/ML Fundamentals | ⏳ Pending | 0% |
 | **Week 3** | Deep Learning Introduction | ⏳ Pending | 0% |
 | **Week 4** | NLP & LLMs | ⏳ Pending | 0% |
 
-### Daily Streak: 2  days 🔥
+### Daily Streak: 3  days 🔥
 
 ## 🗓️ Detailed Weekly Breakdown
 
@@ -304,26 +304,26 @@ By the end of this intensive 30-day bootcamp, I will master:
 - **Lines of Code Written:** 10,000+ lines
 
 ### 📈 Current Progress
-- **Total Commits:** 7 / 200+
-- **Study Hours Completed:** 13 / 180+
-- **DSA Problems Solved:** 5 / 150+
+- **Total Commits:** 10 / 200+
+- **Study Hours Completed:** 16 / 180+
+- **DSA Problems Solved:** 8 / 150+
 - **Projects Completed:** 0 / 5
-- **Lines of Code:** 500 / 10,000+
+- **Lines of Code:** 626 / 10,000+
 
 ### 🎯 Weekly Milestones
 | Week | Focus | Hours | DSA Problems | Project | Status |
 |------|-------|-------|--------------|---------|--------|
-| Week 1 | Foundation | 42h | 18 Easy | Contact System | 6.6% |
+| Week 1 | Foundation | 42h | 18 Easy | Contact System | 42 % |
 | Week 2 | ML Fundamentals | 42h | 18 Easy-Med | House Prices | ⏳ 0% |
 | Week 3 | Deep Learning | 42h | 21 Medium | Image Classifier | ⏳ 0% |
 | Week 4 | NLP & LLMs | 42h | 21 Med-Hard | AI Chatbot | ⏳ 0% |
 | Week 5 | Portfolio | 18h | Mock Interviews | Portfolio Site | ⏳ 0% |
 
 ### 📅 Daily Tracking
-- **Current Streak:** 2 days 🔥
-- **Longest Streak:** 2 days
-- **Average Study Time:** 7 hours/day
-- **Consistency Rate:** 100%
+- **Current Streak:** 3 days 🔥
+- **Longest Streak:** 3 days
+- **Average Study Time:**5.5  hours/day
+- **Consistency Rate:** 98%
 
 ## 🤝 Connect
 
@@ -351,7 +351,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this repository helpful, please consider giving it a star! It helps me stay motivated and helps others discover this learning journey.
 
-**Last Updated:** July 1, 2025  
+**Last Updated:** July 3, 2025  
 **Next Update:** Daily at 9:00 PM IST
 
 ---
