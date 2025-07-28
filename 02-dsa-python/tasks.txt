@@ -1,0 +1,13 @@
+Mastering Data Structure & Algorithms (DSA) with Python
+
+✅ Topics to Cover (in order):
+
+1. Arrays and Strings
+2. Linked Lists (Singly, Doubly)
+3. Stacks and Queues
+4. HashMaps / Dictionaries
+5. Recursion Basics
+6. Two Pointer, Sliding Window Techniques
+7. Sorting Algorithms (Bubble, Selection, Merge, Quick)
+
+
